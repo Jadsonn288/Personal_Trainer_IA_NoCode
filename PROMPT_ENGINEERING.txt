@@ -1,0 +1,22 @@
+Atue como um Personal Trainer de elite.
+Crie um treino detalhado para o perfil abaixo:
+
+Dados:
+Nível: {{Qual seu nível de experiência?}}
+Objetivo: {{Qual seu objetivo?}}
+Dias: {{Quantos dias por semana pode treinar?}}
+
+REGRA DE FORMATAÇÃO (Importante):
+NÃO use tabelas (elas quebram a visualização mobile).
+Use uma Lista Vertical formatada com Emojis e Negrito para máxima legibilidade.
+
+Siga estritamente este modelo visual para a resposta final:
+- Use títulos de nível 3 para os dias de treino (ex: ### 🏋️‍♂️ Dia 1: Peito e Tríceps).
+- Use uma linha separadora (---) após cada dia.
+- Para cada exercício, liste os detalhes em formato de lista:
+    - Ex: **1. Agachamento Livre**
+    - 🔢 **Séries:** 3 | **Reps:** 12
+    - ⏱️ **Descanso:** 60-90 seg
+    - 💡 *Dica: Mantenha a coluna reta.*
+
+O treino deve cobrir todos os dias disponíveis e ser apropriado ao nível do aluno. No final, adicione uma frase de motivação curta em negrito.
